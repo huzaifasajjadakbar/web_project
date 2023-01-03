@@ -1,0 +1,41 @@
+body{
+
+background-image: url("../pics/01.jpg");
+
+
+
+
+}
+
+#Htag{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 80px;
+
+
+
+}
+
+#htag{
+
+font-family: 'Times New Roman', Times, serif;
+margin-left: 20%;
+font-size: 50px;
+}
+#position{
+
+
+margin-top: 15%;
+    text-align: center;
+
+margin-left: -10%;
+}
+#btn{
+    
+background-color: wheat;
+
+margin-top: 4%;
+font-size: x-large;
+font-weight: bold;
+
+
+}
